@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Evan&#39;s Blog</title>
+        <title>Evan&#39;s Place</title>
         <link>https://evansmith-tech.github.io/</link>
-        <description>Recent content on Evan&#39;s Blog</description>
+        <description>Recent content on Evan&#39;s Place</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 10 Aug 2020 01:00:00 +0200</lastBuildDate><atom:link href="https://evansmith-tech.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
